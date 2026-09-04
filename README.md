@@ -17,7 +17,7 @@ I built this project to dig into how customers actually shop — what they buy, 
 
 Here's what the final Power BI dashboard looks like:
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard](https://github.com/Tejaskadu2203/Customer_Behavior_Data_Analysis/blob/main/customer_behavior_dashboard.pbix)
 
 A few things it surfaces at a glance:
 - **3.9K customers**, averaging **$59.76** per purchase, with an average review rating of **3.75**
