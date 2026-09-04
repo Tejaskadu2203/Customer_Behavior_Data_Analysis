@@ -1,6 +1,6 @@
 # Customer Behavior Data Analysis
 
-I built this project to dig into how customers actually shop — what they buy, how much they spend, and which groups behave differently — using a dataset of around 3,900 purchases. The goal was to go from raw, messy data all the way to a clean, interactive dashboard that someone could actually use to make decisions.
+I built this project to dig into how customers actually shop what they buy, how much they spend, and which groups behave differently using a dataset of around 3,900 purchases. The goal was to go from raw, messy data all the way to a clean, interactive dashboard that someone could actually use to make decisions.
 
 ## What this project covers
 
@@ -11,7 +11,7 @@ I built this project to dig into how customers actually shop — what they buy, 
 
 ## The dataset
 
-18 columns, ~3,900 customer purchases. It includes things like purchase amount, category, season, age group, gender, subscription status, and shipping type — basically enough to slice customer behavior a bunch of different ways.
+18 columns, ~3,900 customer purchases. It includes things like purchase amount, category, season, age group, gender, subscription status, and shipping type basically enough to slice customer behavior a bunch of different ways.
 
 ## The dashboard
 
@@ -51,7 +51,7 @@ Python (pandas) for cleaning, SQL for analysis, and Power BI for the dashboard.
 
 ## License
 
-This project is licensed under the MIT License — see the `LICENSE` file for details.
+This project is licensed under the MIT License see the `LICENSE` file for details.
 
 ---
 
